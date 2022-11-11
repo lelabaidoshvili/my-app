@@ -1,0 +1,15 @@
+.text {
+    background-color: rgb(91, 206, 101);
+    width: 200px;
+    height: 70px;
+    position: relative;
+    border-radius: 15px;
+    margin: 20px 0;
+}
+
+h2 {
+    margin: auto;
+    position: absolute;
+    left: 40px;
+    bottom: 13px;
+}
